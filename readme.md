@@ -1,5 +1,5 @@
-## How to setup project
+## How to set up the project
 
 -Download and unzip file
--Go to the project folder and run comman "npm i" to install all the modules
--Finally run command "npm run dev" to install start the project
+-Go to the project folder and run command "npm i" to install all the modules
+-Finally, run the command "npm run dev" to install and start the project
